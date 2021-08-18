@@ -148,3 +148,13 @@
 0.0.0.0 www.bignox.com
 0.0.0.0 www.yeshen.com
 0.0.0.0 www.yeshen.com.w.kunlungr.com
+
+#ccleaner
+0.0.0.0 analytics.ff.avast.com
+0.0.0.0 ipm-provider.ff.avast.com
+0.0.0.0 license.piriform.com
+0.0.0.0 license-api.ccleaner.com
+0.0.0.0 www.ccleaner.com
+0.0.0.0 shepherd.ff.avast.concc.avast.com
+0.0.0.0 ncc.avast.com.edgesuite.net
+0.0.0.0 ip-info.ff.avast.com
