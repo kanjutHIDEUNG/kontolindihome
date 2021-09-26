@@ -158,3 +158,26 @@
 0.0.0.0 shepherd.ff.avast.concc.avast.com
 0.0.0.0 ncc.avast.com.edgesuite.net
 0.0.0.0 ip-info.ff.avast.com
+
+#tambahan
+0.0.0.0 aan.amazon.com
+0.0.0.0 upload.luckyorange.net
+0.0.0.0 hcs.luckyorange.net
+0.0.0.0 settings.luckyorange.net
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 youtube.cleverads.vn
+0.0.0.0 extmaps-api.yandex.net
+0.0.0.0 data.mistat.intl.xiaomi.com
+0.0.0.0 tracking.india.miui.com
+0.0.0.0 tracking.rus.miui.com
+0.0.0.0 logservice.hicloud.com
+0.0.0.0 logservice1.hicloud.com
+0.0.0.0 logbak.hicloud.com
+0.0.0.0 analytics.oneplus.cn
+0.0.0.0 click.oneplus.cn
+0.0.0.0 click.oneplus.com
+0.0.0.0 analytics-api.samsunghealthcn.com
+0.0.0.0 supportmetrics.apple.com
+0.0.0.0 metrics.mzstatic.com
